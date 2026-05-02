@@ -1,0 +1,1 @@
+# AI-Driven-CNC-Tool-Wear-Detection-Pipeline
